@@ -1,0 +1,90 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\api.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\api.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\api.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Error al guardar el inventario: duplicate key value violates unique constraint "inventario_pkey"
+DETAIL:  Key (id)=(52) already exists.
+
+Error de integridad al crear inventario: duplicate key value violates unique constraint "inventario_pkey"
+DETAIL:  Key (id)=(52) already exists.
+
+Bad Request: /api/inventario/
+"POST /api/inventario/ HTTP/1.1" 400 161
+Error al guardar el inventario: duplicate key value violates unique constraint "inventario_pkey"
+DETAIL:  Key (id)=(53) already exists.
+
+Error de integridad al crear inventario: duplicate key value violates unique constraint "inventario_pkey"
+DETAIL:  Key (id)=(53) already exists.
+
+Bad Request: /api/inventario/
+"POST /api/inventario/ HTTP/1.1" 400 161
+Error al guardar el inventario: duplicate key value violates unique constraint "inventario_pkey"
+DETAIL:  Key (id)=(54) already exists.
+
+Error de integridad al crear inventario: duplicate key value violates unique constraint "inventario_pkey"
+DETAIL:  Key (id)=(54) already exists.
+
+Bad Request: /api/inventario/
+"POST /api/inventario/ HTTP/1.1" 400 161
+Error inesperado al crear inventario: {'precio_compra': [ErrorDetail(string='Ensure that there are no more than 2 decimal places.', code='max_decimal_places')], 'precio_venta': [ErrorDetail(string='Ensure that there are no more than 2 decimal places.', code='max_decimal_places')]}
+Internal Server Error: /api/inventario/
+"POST /api/inventario/ HTTP/1.1" 500 40
+Watching for file changes with StatReloader
+Error inesperado al crear inventario: {'precio_compra': [ErrorDetail(string='Ensure that there are no more than 2 decimal places.', code='max_decimal_places')], 'precio_venta': [ErrorDetail(string='Ensure that there are no more than 2 decimal places.', code='max_decimal_places')]}
+Internal Server Error: /api/inventario/
+"POST /api/inventario/ HTTP/1.1" 500 40
+Error inesperado al crear inventario: {'precio_compra': [ErrorDetail(string='Ensure that there are no more than 2 decimal places.', code='max_decimal_places')], 'precio_venta': [ErrorDetail(string='Ensure that there are no more than 2 decimal places.', code='max_decimal_places')]}
+Internal Server Error: /api/inventario/
+"POST /api/inventario/ HTTP/1.1" 500 40
+Error inesperado al crear inventario: {'precio_compra': [ErrorDetail(string='Ensure that there are no more than 2 decimal places.', code='max_decimal_places')], 'precio_venta': [ErrorDetail(string='Ensure that there are no more than 2 decimal places.', code='max_decimal_places')]}
+Internal Server Error: /api/inventario/
+"POST /api/inventario/ HTTP/1.1" 500 40
+Error al guardar el inventario: duplicate key value violates unique constraint "inventario_pkey"
+DETAIL:  Key (id)=(55) already exists.
+
+Error de integridad al crear inventario: duplicate key value violates unique constraint "inventario_pkey"
+DETAIL:  Key (id)=(55) already exists.
+
+Bad Request: /api/inventario/
+"POST /api/inventario/ HTTP/1.1" 400 161
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\api.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\api.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\api.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\api.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\api.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\serializers.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\serializers.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\serializers.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\serializers.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\models.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\models.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\models.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\models.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventarioapi\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\Tin\Desktop\Pagina buena\backend\inventario\settings.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventario\settings.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventario\settings.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventario\settings.py changed, reloading.
+C:\Users\Tin\Desktop\Pagina buena\backend\inventario\settings.py changed, reloading.
